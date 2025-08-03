@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Kursi Modern Minimalis",
+        "description": "Kursi dengan desain minimalis dan elegan, cocok untuk ruang tamu modern.",
+        "price": 850000,
+        "imageUrl": "https://placehold.co/400x300/a3e635/000?text=Kursi"
+    },
+    {
+        "id": 2,
+        "name": "Meja Kopi Kayu Solid",
+        "description": "Meja kopi dari kayu solid jati, kuat dan tahan lama.",
+        "price": 1500000,
+        "imageUrl": "https://placehold.co/400x300/fde047/000?text=Meja"
+    },
+    {
+        "id": 3,
+        "name": "Lampu Gantung Nordic",
+        "description": "Lampu gantung dengan gaya Nordik, memberikan kesan hangat dan nyaman.",
+        "price": 600000,
+        "imageUrl": "https://placehold.co/400x300/fdba74/000?text=Lampu"
+    },
+    {
+        "id": 4,
+        "name": "Lemari Pakaian 3 Pintu",
+        "description": "Lemari besar dengan tiga pintu dan cermin, ideal untuk kamar tidur.",
+        "price": 2200000,
+        "imageUrl": "https://placehold.co/400x300/fca5a5/000?text=Lemari"
+    }
+]
