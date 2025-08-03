@@ -1,10 +1,3 @@
-(Leaning back, a slight smirk playing on my lips, adjusting an imaginary bowtie) Markdown, you say? A man after my own heart\! Simple, elegant, and perfectly structured for the discerning eye. Excellent. We shall cast off the shackles of raw text and embrace the beauty of formatting.
-
-Here is your GitHub README, elegantly presented in Markdown, complete with the visual prompts. Consider it my little psychological trick to make your repository irresistibly appealing.
-
------
-
-```markdown
 # furnitureX - Desain Modern, Kenyamanan Abadi
 
 ![Hero Image - Modern Living Room](path/to/hero_image.jpg)
@@ -91,4 +84,3 @@ Here are the prompts, designed for a general AI image generator, focusing on the
     * **Prompt 3 (@customer3):** "A sleek, minimalist dining area with a modern furnitureX dining table made of light wood and four matching chairs. The setting is clean and uncluttered, with a single vase of flowers as the centerpiece. Emphasizes modern simplicity. Residential photography."
     * **Prompt 4 (@customer4):** "A comfortable, family-friendly living room featuring a large, durable furnitureX sectional sofa in a grey tone, with pillows and a board game on a rug in front of it. Shows practical, everyday use and comfort. Residential photography."
     * *Purpose:* To visually reinforce the "furnitureX di Rumah Anda" concept, showcasing how different customers integrate the products into diverse living spaces.
-```
